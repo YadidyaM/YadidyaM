@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there, I'm Yadidya Medepalli!
+### Hi there 👋, I'm Yadidya Medepalli!
 ![](https://github.com/YadidyaM)
 
 # Master's in AI | Seeking Opportunities in AI Research, Development, and Implementation | Skilled in Computer Vision, NLP, OpenCV, Neural Networks and Deep Learning.
