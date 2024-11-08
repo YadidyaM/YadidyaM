@@ -2,12 +2,12 @@
   
 ### <div align="center">I am Yadidya Medepalli, a skilled AI Engineer Graduate with a passion for Machine Learning, Computer Vision, and Data-Driven Development. My goal is to build innovative AI solutions that drive business efficiency and impact.</div>  
 
-Currently, I am working on a **Virtual Voice Assistant Friend Application** called **KIRA** for mental well-being, set to launch in London in December 2024. With a Master's in Artificial Intelligence (Distinction) and hands-on experience in data-driven projects, I aim to push the boundaries of what's possible with AI.
+I aim to push the boundaries of what's possible with AI.
 
 ---
 
 ### 🔭 **I’m currently working on:**
-- Virtual Voice Assistant **KIRA** for mental well-being (Launching Dec 2024)
+- Virtual Voice Assistant **KIRA** for mental well-being (Launching Dec 2024 in Skills Enterprise, London)
   
 - 🌱 **Currently learning**: Advanced Generative AI Models, Hyperledger, Unity, Kubernetes
 
