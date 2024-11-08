@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+ 
   
 ### <div align="center">I am Yadidya Medepalli, a skilled AI Engineer Graduate with a passion for Machine Learning, Computer Vision, and Data-Driven Development. My goal is to build innovative AI solutions that drive business efficiency and impact.</div>  
 
@@ -65,4 +63,4 @@ If things go well, this section should automatically be replaced by a list of yo
 
 <br/>
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
