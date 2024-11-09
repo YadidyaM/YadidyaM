@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/jZIq9jQjvBE6krE3Z6/giphy.gif" alt="AI Animation GIF" width="480" height="480"/>
+</div>
  
   
 ### <div align="center">I am Yadidya Medepalli, a skilled AI Engineer Graduate with a passion for Machine Learning, Computer Vision, and Data-Driven Development. My goal is to build innovative AI solutions that drive business efficiency and impact.</div>  
