@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/jZIq9jQjvBE6krE3Z6/giphy.gif" alt="AI Animation GIF" width="480" height="480"/>
+  <img src="https://media.giphy.com/media/jZIq9jQjvBE6krE3Z6/giphy.gif" alt="AI Animation GIF" width="300" height="300"/>
 </div>
  
   
