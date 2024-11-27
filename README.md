@@ -3,7 +3,7 @@
 </div>
  
   
-### <div align="center">I am Yadidya Medepalli, a skilled AI Engineer Graduate with a passion for Machine Learning, Computer Vision, and Data-Driven Development. My goal is to build innovative AI solutions that drive business efficiency and impact.</div>  
+### <div align="center">I am Yadidya Medepalli, a skilled AI Engineer Graduate with a passion for Machine Learning, Computer Vision, Website and App Development, and Data-Driven Development. My goal is to build innovative AI solutions that drive business efficiency and impact.</div>  
 
 I aim to push the boundaries of what's possible with AI.
 
