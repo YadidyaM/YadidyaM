@@ -3,16 +3,16 @@
 </div>
  
   
-### <div align="center">I am Yadidya Medepalli, a skilled AI Engineer Graduate with a passion for Machine Learning, Computer Vision, Website and App Development, and Data-Driven Development. My goal is to build innovative AI solutions that drive business efficiency and impact.</div>  
+### <div align="center">I am Yadidya Medepalli, an AI Developer and a Full Stack Web Application Engineer. I love building AI solutions to real world business and problems. Active participant in AI Conferences and Hackathons. Feel Free to use my GenAI Web Application Tools</div>  
 
 I aim to push the boundaries of what's possible with AI.
 
 ---
 
 ### 🔭 **I’m currently working on:**
-- Virtual Voice Assistant **KIRA** for mental well-being (Launching Dec 2024 in Skills Enterprise, London)
+- Virtual Voice Assistant **KIRA** for mental well-being (Launching 2025 in Skills Enterprise, London)
   
-- 🌱 **Currently learning**: Advanced Generative AI Models, Hyperledger, Unity, Kubernetes
+- 🌱 **Currently learning**: 
 
 - ⚡ **Goal**: Push the boundaries of what's possible with AI
 
