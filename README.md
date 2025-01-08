@@ -12,7 +12,7 @@ I aim to push the boundaries of what's possible with AI.
 ### 🔭 **I’m currently working on:**
 - Virtual Voice Assistant **KIRA** for mental well-being (Launching 2025 in Skills Enterprise, London)
   
-- 🌱 **Currently learning**: 
+- 🌱 **Currently learning**: Uses and Potential of Agentic AI
 
 - ⚡ **Goal**: Push the boundaries of what's possible with AI
 
