@@ -46,7 +46,7 @@ I’m an enthusiastic **AI and Full Stack Developer** passionate about transform
   - **Cambridge Research AI x Cancer Bio Hackathon** (2025): AI-Driven Solutions for Personalized Cancer Care: Integrating Radiomics, Genomics, and Intelligent Therapeutics  
   - Upcoming: **AIstronauts: Space Agents on a mission**   
 - **Foundational Project**: [KIRA - AI Virtual Friend](https://kirai.netlify.app/) - PROTOTYPE (Actively looking for Funding)
-### 🌟 Features  
+### 🌟 KIRA Features  
 - A conversational AI model with emotion detection and other features powered by Transformers and LLM.  
 
 ### 🌐 Connect With Me  
