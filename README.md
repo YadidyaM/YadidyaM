@@ -45,7 +45,7 @@ I’m an enthusiastic **AI and Full Stack Developer** passionate about transform
   - **Google’s Gemma 2 AI Challenge** (2024): Developed AI Agentic Protocol  
   - **Cambridge Research AI x Cancer Bio Hackathon** (2025): AI-Driven Solutions for Personalized Cancer Care: Integrating Radiomics, Genomics, and Intelligent Therapeutics  
   - Upcoming: **AIstronauts: Space Agents on a mission**   
-- **Foundational Project**: [KIRA - AI Virtual Friend](https://kirai.netlify.app/) - PROTOTYPE (Actively looking for Funding)
+- **Foundational Project**: - PROTOTYPE (Actively looking for Funding)
 ### 🌟 KIRA Features  
 - A conversational AI model with emotion detection and other features powered by Transformers and LLM.  
 
