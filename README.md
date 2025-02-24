@@ -44,7 +44,7 @@ I’m an enthusiastic **AI and Full Stack Developer** passionate about transform
 - **Hackathons**:  
   - **Google’s Gemma 2 AI Challenge** (2024): Developed AI Agentic Protocol  
   - **Cambridge Research AI x Cancer Bio Hackathon** (2025): AI-Driven Solutions for Personalized Cancer Care: Integrating Radiomics, Genomics, and Intelligent Therapeutics  
-  - 🏆**AIstronauts: Space Agents on a mission** (2025)  - 🏆Winners: Nebula AI for satellite operation, maintenance and resource management through Automated AI Agents.
+  - 🏆**AIstronauts: Space Agents on a mission** (2025)  - 🏆🥇Winners: Nebula AI for satellite operation, maintenance and resource management through Automated AI Agents.
 - **Foundational Project**: KIRA for Mental Health (Actively looking for Funding)
 ### 🌟 KIRA Features  
 - KIRA is a web application that can always keep you happy and keep your mental health balanced .  
