@@ -55,7 +55,7 @@ I’m an enthusiastic **AI and Full Stack Developer** passionate about transform
 - **Portfolio**: [Who am I?]([https://kirai.netlify.app/](https://yadidya.netlify.app/))  
 
 ### 🔍 What I’m Exploring  
-My research focuses on **Large Language Models (LLMs)** and **RAG** to unlock innovative AI solutions. Currently, I am researching on how to build Open Source Foundational models and explore the cost to build a LLM model with less than 7 billion parameters. 
+My research focuses on **Large Language Models (LLMs)** and **Agentic AIs** to unlock innovative AI solutions. Currently, I am researching and building a cool application for developers. Stay tuned :)
 
 Support and Let’s push Technology to the future! 💡✨  
 
