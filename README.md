@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/jZIq9jQjvBE6krE3Z6/giphy.gif" alt="AI Animation GIF" width="150" height="150"/>
+  <img src="https://media.giphy.com/media/jZIq9jQjvBE6krE3Z6/giphy.gif" alt="AI Animation GIF" width="100" height="100"/>
 </div>
 
 # Hi, I’m **Yadidya Medepalli** 👋  
