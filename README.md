@@ -1,64 +1,57 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jZIq9jQjvBE6krE3Z6/giphy.gif" alt="AI Animation GIF" width="150" height="150"/>
 </div>
- 
-# Hi there! 👋 I’m **Yadidya Medepalli**  
-**AI & Full-Stack Developer | MSc AI (Distinction)**  
-🌍 Based in Cambridge, UK | ✉️ [Email Me](mailto:yadikrish@gmail.com)  
 
----
+# Hi, I’m **Yadidya Medepalli** 👋  
+**AI Engineer, Developer and Hackathon Expert**
+🌍 Cambridge, UK | ✉️ [Email Me](mailto:yadikrish@gmail.com)  
 
-### 🚀 About Me
-I’m an enthusiastic **AI and Full Stack Developer** passionate about transforming complex problems into scalable, real-world solutions. My expertise spans **AI foundational models**, **AI Agents**, and software tools that deliver actionable insights from data. I thrive at the intersection of **innovation** and **technology**, and I’m always looking for new opportunities to make an impact.
+## 🚀 About Me  
+AI Engineer | Turning Ideas into Intelligent Solutions 🚀 | 2+ years crafting AI-driven products from concept to deployment, blending Python, ML, Cloud, and Full-Stack magic to automate, innovate, and scale the future of technology.
 
----
+### 🔍 Current Research  
+Exploring **LLMs & AI Agents** to develop cutting-edge tools for developers.  
 
-### 💻 Tech Stack  
+## 🛠 Tech Stack  
 
-#### Programming & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages & Frameworks**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20">  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="20">  
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="20">  
 
-#### AI & Machine Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+**AI & ML**  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="20">  
 
-#### Frontend Development  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+**Backend & Databases**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="20">  
 
-#### Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Cloud & DevOps**  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="20">  
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="20">  
 
-#### Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🏆 Achievements  
+- 🏆 **Lablab AIs AIstronauts Hackathon (2025)** – **Winner**: Nebula AI for satellite automation  
 
-#### Visualization & Analytics  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+## 📌 Featured Founding Project: **KIRA (Mental Health AI)**  
+A web app designed to **enhance mental well-being** and **balance emotions**. (Seeking funding!)  
 
----
+## 🌐 Connect with Me  
+<a href="https://github.com/YadidyaM">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+</a>  
+<a href="https://www.linkedin.com/in/yadidya-medepalli/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+</a>  
+<a href="https://yadidya.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25">
+</a>  
 
-### 🏆 Achievements & Certifications  
-- **Certifications**: AWS Academy Graduate, Microsoft Data Analyst  
-- **Hackathons**:  
-  - **Google’s Gemma 2 AI Challenge** (2024): Developed AI Agentic Protocol  
-  - **Cambridge Research AI x Cancer Bio Hackathon** (2025): AI-Driven Solutions for Personalized Cancer Care: Integrating Radiomics, Genomics, and Intelligent Therapeutics  
-  - 🏆**AIstronauts: Space Agents on a mission** (2025)  - 🏆🥇Winners: Nebula AI for satellite operation, maintenance and resource management through Automated AI Agents.
-- **Foundational Project**: KIRA for Mental Health (Actively looking for Funding)
-### 🌟 KIRA Features  
-- KIRA is a web application that can always keep you happy and keep your mental health balanced .  
-
-### 🌐 Connect With Me  
-- **GitHub**: [YadidyaM](https://github.com/YadidyaM)  
-- **LinkedIn**: [Yadidya Medepalli](https://www.linkedin.com/in/yadidya-medepalli/)  
-- **Portfolio**: [Who am I?]([https://kirai.netlify.app/](https://yadidya.netlify.app/))  
-
-### 🔍 What I’m Exploring  
-My research focuses on **Large Language Models (LLMs)** and **Agentic AIs** to unlock innovative AI solutions. Currently, I am researching and building a cool application for developers. Stay tuned :)
-
-Support and Let’s push Technology to the future! 💡✨  
-
-
-
-
+💡 *Let’s push technology forward together!* 🚀  
