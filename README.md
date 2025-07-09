@@ -14,18 +14,6 @@ Currently researching on balancing AI autonomy with human oversight to ensure et
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourname/yourrepo/main/assets/logo.png" alt="Project Logo" width="200"/>
-</p>
-
-# Your Project Name
-
-_A short project tagline goes here._
-
----
-
-## 🛠️ Tech Stack
-
 ### 🔗 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
@@ -75,11 +63,6 @@ _A short project tagline goes here._
 ### 🔗 Monitoring  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-
----
-
-> _Built with ❤️ and ☕ by [Your Name](https://github.com/yourname)_
-
 
 
 ## 🏆 Achievements  
