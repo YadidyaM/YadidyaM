@@ -43,10 +43,8 @@ Currently researching on balancing AI autonomy with human oversight to ensure et
 
 
 ## 🏆 Achievements  
-- 🏆 **Lablab AIs AIstronauts Hackathon (2025)** – **Winner**: Nebula AI for satellite automation  
-
-## 📌 Featured Founding Project: **KIRA (Mental Health AI)**  
-A web app designed to **enhance mental well-being** and **balance emotions**. (Seeking funding!)  
+- 🏆 **Lablab AIs AIstronauts Hackathon (2025)** – **Winner**: Nebula AI for satellite automation
+- 🏆 **Winner of Best Creative AI Project at the Agentic AI Innovation Challenge 2025**
 
 ## 🌐 Connect with Me  
 <a href="https://github.com/YadidyaM">
