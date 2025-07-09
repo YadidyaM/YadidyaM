@@ -14,51 +14,67 @@ Currently researching on balancing AI autonomy with human oversight to ensure et
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourname/yourrepo/main/assets/logo.png" alt="Project Logo" width="200"/>
+</p>
 
-### Model Development  
+# Your Project Name
+
+_A short project tagline goes here._
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔗 Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+
+### 🔗 Model Development  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Scikit‑learn](https://img.shields.io/badge/Scikit‑learn-F7931E?logo=scikit-learn&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6C37?logo=huggingface&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6E21?logo=huggingface&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
-### Databases & APIs  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
+### 🔗 Databases & APIs  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
-### Cloud & DevOps  
+### 🔗 Cloud Services  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white)  
-![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+
+### 🔗 Containerization & Orchestration  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-### MLOps & Monitoring  
-![MLflow](https://img.shields.io/badge/MLflow-00B0AA?logo=mlflow&logoColor=white)  
-![Kubeflow](https://img.shields.io/badge/Kubeflow-F9643B?logo=kubeflow&logoColor=white)  
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?logo=amazonsagemaker&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-FFE873?logo=prometheus&logoColor=black)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+### 🔗 Model Deployment  
+![MLflow](https://img.shields.io/badge/MLflow-025679?logo=mlflow&logoColor=white)  
+![Kubeflow](https://img.shields.io/badge/Kubeflow-4285F4?logo=kubeflow&logoColor=white)  
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?logo=amazonsagemaker&logoColor=white)
 
-### Data Processing  
+### 🔗 Data Processing  
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white)
 
-### Version Control & CI/CD  
+### 🔗 Version Control & CI/CD  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+
+### 🔗 Monitoring  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 ---
 
