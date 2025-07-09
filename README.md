@@ -15,26 +15,13 @@ Currently researching on balancing AI autonomy with human oversight to ensure et
 ## 🛠️ Tech Stack
 
 ### 🔗 Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ### 🔗 Model Development  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6E21?logo=huggingface&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6E21?logo=huggingface&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 ### 🔗 Databases & APIs  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
 ### 🔗 Cloud Services  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
