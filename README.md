@@ -10,7 +10,7 @@
 AI Engineer | Turning Ideas into Intelligent Solutions 🚀 | 2+ years crafting AI-driven products from concept to deployment, blending Python, ML, Cloud, and Full-Stack magic to automate, innovate, and scale the future of technology.
 
 ### 🔍 Current Research  
-Exploring **LLMs & AI Agents** to develop cutting-edge tools for developers.  
+Currently researching on balancing AI autonomy with human oversight to ensure ethical alignment, minimize risks, and drive responsible innovation.  
 
 ## 🛠 Tech Stack  
 
