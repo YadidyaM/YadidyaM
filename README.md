@@ -24,32 +24,22 @@ Currently researching on balancing AI autonomy with human oversight to ensure et
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
 ### 🔗 Cloud Services  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 
 ### 🔗 Containerization & Orchestration  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ### 🔗 Model Deployment  
-![MLflow](https://img.shields.io/badge/MLflow-025679?logo=mlflow&logoColor=white)  
-![Kubeflow](https://img.shields.io/badge/Kubeflow-4285F4?logo=kubeflow&logoColor=white)  
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?logo=amazonsagemaker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-025679?logo=mlflow&logoColor=white)  ![Kubeflow](https://img.shields.io/badge/Kubeflow-4285F4?logo=kubeflow&logoColor=white)  ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?logo=amazonsagemaker&logoColor=white)
 
 ### 🔗 Data Processing  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white)  ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white)
 
 ### 🔗 Version Control & CI/CD  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
 ### 🔗 Monitoring  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 
 ## 🏆 Achievements  
