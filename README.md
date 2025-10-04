@@ -24,7 +24,7 @@ Currently researching on balancing AI autonomy with human oversight to ensure et
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6E21?logo=huggingface&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white) 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1E88E5?logo=langgraph&logoColor=white) 
-![Atogen](https://img.shields.io/badge/Atogen-8E44AD?logoColor=white) 
+![Autogen](https://img.shields.io/badge/Autogen-8E44AD?logoColor=white) 
 ![CrewAI](https://img.shields.io/badge/CrewAI-2ECC71?logoColor=white) 
 ![Anthropic MCP](https://img.shields.io/badge/Anthropic%20MCP-FF4B4B?logo=anthropic&logoColor=white) 
 ![OpenAI Agent SDK](https://img.shields.io/badge/OpenAI%20Agent%20SDK-412991?logo=openai&logoColor=white) 
